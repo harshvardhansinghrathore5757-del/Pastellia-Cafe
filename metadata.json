@@ -1,0 +1,6 @@
+{
+  "name": "Pastellia Cafe",
+  "description": "A beautifully crafted landing page for Pastellia Cafe, featuring a pastel color theme and modern design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
